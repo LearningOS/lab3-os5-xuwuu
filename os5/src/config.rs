@@ -14,4 +14,3 @@ pub const CLOCK_FREQ: usize = 12500000;
 
 //update
 pub const BIG_STRIDE: isize = 666666;
-pub const test:bool = true;
